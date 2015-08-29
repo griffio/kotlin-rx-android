@@ -10,7 +10,6 @@ import android.widget.TextView
 import griffio.views.ViewContainer
 import griffio.application.R
 import butterknife.bindView
-import butterknife.bindContainer
 
 open class MainActivity : ActionBarActivity() {
 

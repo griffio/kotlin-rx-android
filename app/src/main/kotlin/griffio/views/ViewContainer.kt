@@ -1,7 +1,5 @@
 package griffio.views
 
-public trait ViewContainer {
-
+public interface ViewContainer {
     fun text(text: String)
-
 }

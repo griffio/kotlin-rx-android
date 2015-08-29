@@ -41,8 +41,8 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile("com.android.support:appcompat-v7:${appcompat_version}",
             "org.jetbrains.kotlin:kotlin-stdlib:${kotlin_version}",
-            'com.android.support:support-v4:21.0.0',
-            'com.android.support:recyclerview-v7:21.0.0',
+            'com.android.support:support-v4:22.2.0',
+            'com.android.support:recyclerview-v7:22.2.0',
             "io.reactivex:rxandroid:${reactivex_version}")
 }
 
